@@ -1,0 +1,8 @@
+llama-index==0.14.7
+#llama-index-multi-modal-llms-openai
+llama_index.llms.ollama
+llama_index.embeddings.huggingface
+sentence-transformers==5.1.2
+llama-index-readers-google==0.7.2
+watchdog
+ultralytics
