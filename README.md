@@ -1,0 +1,1 @@
+This project is a small-scale Proof of Concept (PoC) demonstrating how to leverage the LlamaIndex framework for multi-modal data analysis. It analyzes a directory of images to identify the presence or absence of Personal Protective Equipment (PPE), such as hard hats, safety vests, and goggles. The PoC generates a  report summarizing the findings.
