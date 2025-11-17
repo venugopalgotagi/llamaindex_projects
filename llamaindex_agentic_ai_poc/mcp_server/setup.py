@@ -1,4 +1,9 @@
-# setup.py
+"""Setup configuration for the MCP server package.
+
+This module defines the package metadata and dependencies for the
+PPE Risk Assessment MCP server.
+"""
+
 from setuptools import setup, find_packages
 
 setup(
